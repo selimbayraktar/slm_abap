@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Defination API'
+define service ZRAP_SLM_API01 {
+  expose ZC_RAP_SLM_CDS01 as Travel;
+}
